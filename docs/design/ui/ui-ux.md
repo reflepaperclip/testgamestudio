@@ -1,5 +1,15 @@
 # Modern Military Stealth - UI/UX 기획서
 
+| 항목 | 내용 |
+|---|---|
+| 문서 유형 | UI/UX 기획서 |
+| 상태 | Draft |
+| 버전 | 0.1 |
+| 최종 수정 | 2026-10-12 |
+| 작성자 | 크리에이티브 디렉터 |
+| 관련 이슈 | REFAA-5 |
+| 관련 문서 | [GDD](../gdd/modern-military-stealth.md), [은신도 시스템](../systems/stealth-system.md), [탐지 시스템](../systems/detection-system.md), [레벨 디자인](../levels/mission-01-training.md), [내러티브](../narrative/outline.md) |
+
 ## 1. HUD 디자인
 
 ### 1.1 은신도 게이지
