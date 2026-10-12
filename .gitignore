@@ -1,0 +1,26 @@
+# Godot 4
+.godot/
+*.translation
+export_credentials.cfg
+# Godot C# (mono)
+.mono/
+data_*/
+mono_crash.*.json
+
+# Blender
+*.blend1
+*.blend2
+*.blend@
+
+# 편집기 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 비밀값 (절대 커밋하지 않는다)
+.env
+.env.*
+*.pem
+*.key
