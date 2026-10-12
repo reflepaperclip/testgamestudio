@@ -1,0 +1,776 @@
+{
+  "date": "2026-10-12",
+  "source": [
+    "steam featuredcategories",
+    "steamspy top100in2weeks/appdetails"
+  ],
+  "featuredLists": {
+    "top_sellers": [],
+    "new_releases": [],
+    "coming_soon": [],
+    "specials": []
+  },
+  "top": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike: Global Offensive",
+      "developer": "Valve",
+      "owners": "100,000,000 .. 200,000,000",
+      "ccu": 1013936,
+      "positive": 7642084,
+      "negative": 1173003,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Free To Play",
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Competitive",
+        "Action",
+        "Team-Based",
+        "e-sports",
+        "Tactical"
+      ]
+    },
+    {
+      "appid": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "developer": "PUBG Corporation",
+      "owners": "100,000,000 .. 200,000,000",
+      "ccu": 314682,
+      "positive": 1520457,
+      "negative": 1037487,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Massively Multiplayer, Free To Play",
+      "tags": [
+        "Survival",
+        "Shooter",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Third-Person Shooter",
+        "Action"
+      ]
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "developer": "Facepunch Studios",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 143870,
+      "positive": 1071135,
+      "negative": 156649,
+      "price": "3999",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Multiplayer",
+        "Open World",
+        "Open World Survival Craft",
+        "Building",
+        "PvP",
+        "Sandbox"
+      ]
+    },
+    {
+      "appid": 1172470,
+      "name": "Apex Legends",
+      "developer": "Respawn",
+      "owners": "100,000,000 .. 200,000,000",
+      "ccu": 124262,
+      "positive": 668053,
+      "negative": 326926,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Free To Play",
+      "tags": [
+        "Free to Play",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "Shooter",
+        "First-Person",
+        "PvP",
+        "Action"
+      ]
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "developer": "Wallpaper Engine Team",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 91184,
+      "positive": 876898,
+      "negative": 17560,
+      "price": "499",
+      "average_2weeks": 0,
+      "genre": "Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",
+      "tags": [
+        "Mature",
+        "Utilities",
+        "Anime",
+        "Software",
+        "Design & Illustration",
+        "Animation & Modeling",
+        "First-Person",
+        "NSFW"
+      ]
+    },
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V Legacy",
+      "developer": "Rockstar North",
+      "owners": "50,000,000 .. 100,000,000",
+      "ccu": 67851,
+      "positive": 1739980,
+      "negative": 250576,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure",
+      "tags": [
+        "Open World",
+        "Action",
+        "Multiplayer",
+        "Crime",
+        "Automobile Sim",
+        "Third Person",
+        "First-Person",
+        "Mature"
+      ]
+    },
+    {
+      "appid": 1938090,
+      "name": "Call of Duty: Modern Warfare II",
+      "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+      "owners": "50,000,000 .. 100,000,000",
+      "ccu": 67419,
+      "positive": 419594,
+      "negative": 294520,
+      "price": "3849",
+      "average_2weeks": 0,
+      "genre": "Action",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "Singleplayer",
+        "Action",
+        "Military",
+        "First-Person",
+        "War"
+      ]
+    },
+    {
+      "appid": 1203220,
+      "name": "NARAKA: BLADEPOINT",
+      "developer": "24 Entertainment",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 66954,
+      "positive": 225960,
+      "negative": 98967,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Massively Multiplayer",
+      "tags": [
+        "Battle Royale",
+        "Multiplayer",
+        "Martial Arts",
+        "Mature",
+        "PvP",
+        "Action",
+        "Female Protagonist",
+        "Character Customization"
+      ]
+    },
+    {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "developer": "Larian Studios",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 54771,
+      "positive": 736688,
+      "negative": 23974,
+      "price": "4499",
+      "average_2weeks": 0,
+      "genre": "Adventure, RPG, Strategy",
+      "tags": [
+        "RPG",
+        "Character Customization",
+        "Choices Matter",
+        "Story Rich",
+        "Turn-Based Combat",
+        "Dungeons & Dragons",
+        "CRPG",
+        "Fantasy"
+      ]
+    },
+    {
+      "appid": 553850,
+      "name": "HELLDIVERS 2",
+      "developer": "Arrowhead Game Studios",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 53399,
+      "positive": 775883,
+      "negative": 241752,
+      "price": "3999",
+      "average_2weeks": 0,
+      "genre": "Action",
+      "tags": [
+        "Online Co-Op",
+        "PvE",
+        "Third-Person Shooter",
+        "Multiplayer",
+        "Action",
+        "Shooter",
+        "Co-op",
+        "Sci-fi"
+      ]
+    },
+    {
+      "appid": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "developer": "Ubisoft Montreal",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 51847,
+      "positive": 1172854,
+      "negative": 225730,
+      "price": "1999",
+      "average_2weeks": 0,
+      "genre": "Action",
+      "tags": [
+        "FPS",
+        "PvP",
+        "Multiplayer",
+        "Tactical",
+        "e-sports",
+        "Shooter",
+        "Competitive",
+        "Online Co-Op"
+      ]
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "developer": "ConcernedApe",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 50662,
+      "positive": 872384,
+      "negative": 13811,
+      "price": "1499",
+      "average_2weeks": 0,
+      "genre": "Indie, RPG, Simulation",
+      "tags": [
+        "Farming Sim",
+        "Pixel Graphics",
+        "Multiplayer",
+        "Life Sim",
+        "RPG",
+        "Relaxing",
+        "Agriculture",
+        "Simulation"
+      ]
+    },
+    {
+      "appid": 236390,
+      "name": "War Thunder",
+      "developer": "Gaijin Entertainment",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 50478,
+      "positive": 484469,
+      "negative": 272617,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Massively Multiplayer, Simulation, Free To Play",
+      "tags": [
+        "Free to Play",
+        "Simulation",
+        "Vehicular Combat",
+        "Combat",
+        "World War II",
+        "Flight",
+        "VR",
+        "War"
+      ]
+    },
+    {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "developer": "Behaviour Interactive Inc.",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 44886,
+      "positive": 630223,
+      "negative": 166993,
+      "price": "1999",
+      "average_2weeks": 0,
+      "genre": "Action",
+      "tags": [
+        "Horror",
+        "Multiplayer",
+        "Survival Horror",
+        "Online Co-Op",
+        "Co-op",
+        "Survival",
+        "Gore",
+        "Team-Based"
+      ]
+    },
+    {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "developer": "Valve",
+      "owners": "50,000,000 .. 100,000,000",
+      "ccu": 43819,
+      "positive": 1044264,
+      "negative": 117208,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Free To Play",
+      "tags": [
+        "Free to Play",
+        "Hero Shooter",
+        "Multiplayer",
+        "FPS",
+        "Shooter",
+        "Action",
+        "Class-Based",
+        "Team-Based"
+      ]
+    },
+    {
+      "appid": 221100,
+      "name": "DayZ",
+      "developer": "Bohemia Interactive",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 37066,
+      "positive": 330349,
+      "negative": 99903,
+      "price": "4999",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Massively Multiplayer",
+      "tags": [
+        "Survival",
+        "Open World",
+        "Online Co-Op",
+        "Zombies",
+        "Multiplayer",
+        "Post-apocalyptic",
+        "Shooter",
+        "PvP"
+      ]
+    },
+    {
+      "appid": 230410,
+      "name": "Warframe",
+      "developer": "Digital Extremes",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 36195,
+      "positive": 545393,
+      "negative": 81110,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, RPG, Free To Play",
+      "tags": [
+        "Free to Play",
+        "Action RPG",
+        "Looter Shooter",
+        "Third-Person Shooter",
+        "Action",
+        "RPG",
+        "Third Person",
+        "Character Customization"
+      ]
+    },
+    {
+      "appid": 438100,
+      "name": "VRChat",
+      "developer": "VRChat Inc.",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 34699,
+      "positive": 181623,
+      "negative": 58732,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",
+      "tags": [
+        "VR",
+        "Free to Play",
+        "Multiplayer",
+        "Anime",
+        "Memes",
+        "Funny",
+        "Massively Multiplayer",
+        "First-Person"
+      ]
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "developer": "semiwork",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 32349,
+      "positive": 179154,
+      "negative": 6488,
+      "price": "999",
+      "average_2weeks": 0,
+      "genre": "Action, Early Access",
+      "tags": [
+        "Horror",
+        "Online Co-Op",
+        "Multiplayer",
+        "Comedy",
+        "Co-op",
+        "Physics",
+        "3D",
+        "First-Person"
+      ]
+    },
+    {
+      "appid": 322330,
+      "name": "Don't Starve Together",
+      "developer": "Klei Entertainment",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 30542,
+      "positive": 475393,
+      "negative": 23668,
+      "price": "1499",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+      "tags": [
+        "Survival",
+        "Open World Survival Craft",
+        "Multiplayer",
+        "Co-op",
+        "Open World",
+        "Adventure",
+        "Crafting",
+        "Online Co-Op"
+      ]
+    },
+    {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 29885,
+      "positive": 676667,
+      "negative": 56875,
+      "price": "1499",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure",
+      "tags": [
+        "Open World",
+        "Story Rich",
+        "Western",
+        "Adventure",
+        "Multiplayer",
+        "Action",
+        "Realistic",
+        "Singleplayer"
+      ]
+    },
+    {
+      "appid": 1245620,
+      "name": "ELDEN RING",
+      "developer": "FromSoftware, Inc.",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 29529,
+      "positive": 981540,
+      "negative": 75137,
+      "price": "5999",
+      "average_2weeks": 0,
+      "genre": "Action, RPG",
+      "tags": [
+        "Souls-like",
+        "Open World",
+        "Dark Fantasy",
+        "RPG",
+        "Difficult",
+        "Action RPG",
+        "Third Person",
+        "Multiplayer"
+      ]
+    },
+    {
+      "appid": 218620,
+      "name": "PAYDAY 2",
+      "developer": "OVERKILL - a Starbreeze Studio., Sidetrack Games",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 27254,
+      "positive": 594327,
+      "negative": 68755,
+      "price": "999",
+      "average_2weeks": 0,
+      "genre": "Action, RPG",
+      "tags": [
+        "Co-op",
+        "Action",
+        "FPS",
+        "Heist",
+        "Multiplayer",
+        "Looter Shooter",
+        "Online Co-Op",
+        "Stealth"
+      ]
+    },
+    {
+      "appid": 289070,
+      "name": "Sid Meier’s Civilization VI",
+      "developer": "Firaxis Games, Aspyr (Mac), Aspyr (Linux)",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 25420,
+      "positive": 304053,
+      "negative": 45867,
+      "price": "5999",
+      "average_2weeks": 0,
+      "genre": "Strategy",
+      "tags": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Multiplayer",
+        "Historical",
+        "Grand Strategy",
+        "Singleplayer",
+        "Turn-Based",
+        "4X"
+      ]
+    },
+    {
+      "appid": 1222670,
+      "name": "The Sims 4",
+      "developer": "Maxis",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 25276,
+      "positive": 149064,
+      "negative": 21663,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Adventure, Casual, Simulation, Free To Play",
+      "tags": [
+        "Life Sim",
+        "Character Customization",
+        "Free to Play",
+        "Building",
+        "Romance",
+        "Simulation",
+        "Sandbox",
+        "Singleplayer"
+      ]
+    },
+    {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "developer": "Valve",
+      "owners": "50,000,000 .. 100,000,000",
+      "ccu": 25122,
+      "positive": 940221,
+      "negative": 23762,
+      "price": "999",
+      "average_2weeks": 0,
+      "genre": "Action",
+      "tags": [
+        "Zombies",
+        "Co-op",
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "Online Co-Op",
+        "Action",
+        "Survival"
+      ]
+    },
+    {
+      "appid": 1085660,
+      "name": "Destiny 2",
+      "developer": "Bungie",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 24619,
+      "positive": 497891,
+      "negative": 127725,
+      "price": "0",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Free To Play",
+      "tags": [
+        "Free to Play",
+        "Open World",
+        "Multiplayer",
+        "Looter Shooter",
+        "MMORPG",
+        "FPS",
+        "Co-op",
+        "PvE"
+      ]
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "developer": "Re-Logic",
+      "owners": "20,000,000 .. 50,000,000",
+      "ccu": 24580,
+      "positive": 1373979,
+      "negative": 35494,
+      "price": "499",
+      "average_2weeks": 0,
+      "genre": "Action, Adventure, Indie, RPG",
+      "tags": [
+        "Open World Survival Craft",
+        "Sandbox",
+        "Survival",
+        "2D",
+        "Multiplayer",
+        "Adventure",
+        "Pixel Graphics",
+        "Crafting"
+      ]
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "developer": "The Indie Stone",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 22864,
+      "positive": 355171,
+      "negative": 21892,
+      "price": "2499",
+      "average_2weeks": 0,
+      "genre": "Indie, RPG, Simulation, Early Access",
+      "tags": [
+        "Survival",
+        "Zombies",
+        "Open World",
+        "Multiplayer",
+        "Open World Survival Craft",
+        "Sandbox",
+        "Post-apocalyptic",
+        "Co-op"
+      ]
+    },
+    {
+      "appid": 3164500,
+      "name": "Schedule I",
+      "developer": "TVGS",
+      "owners": "10,000,000 .. 20,000,000",
+      "ccu": 22757,
+      "positive": 200803,
+      "negative": 3238,
+      "price": "1999",
+      "average_2weeks": 0,
+      "genre": "Action, Indie, Simulation, Strategy, Early Access",
+      "tags": [
+        "Simulation",
+        "Co-op",
+        "Crime",
+        "Multiplayer",
+        "Open World",
+        "Management",
+        "First-Person",
+        "Action"
+      ]
+    }
+  ],
+  "tagRank": [
+    [
+      "Multiplayer",
+      25
+    ],
+    [
+      "Action",
+      13
+    ],
+    [
+      "FPS",
+      9
+    ],
+    [
+      "Shooter",
+      9
+    ],
+    [
+      "Open World",
+      9
+    ],
+    [
+      "Co-op",
+      9
+    ],
+    [
+      "Survival",
+      8
+    ],
+    [
+      "Online Co-Op",
+      8
+    ],
+    [
+      "Free to Play",
+      7
+    ],
+    [
+      "First-Person",
+      7
+    ],
+    [
+      "PvP",
+      6
+    ],
+    [
+      "Open World Survival Craft",
+      4
+    ]
+  ],
+  "genreRank": [
+    [
+      "Action",
+      23
+    ],
+    [
+      "Adventure",
+      13
+    ],
+    [
+      "Free To Play",
+      9
+    ],
+    [
+      "RPG",
+      9
+    ],
+    [
+      "Indie",
+      7
+    ],
+    [
+      "Simulation",
+      7
+    ],
+    [
+      "Massively Multiplayer",
+      6
+    ],
+    [
+      "Strategy",
+      4
+    ],
+    [
+      "Early Access",
+      4
+    ],
+    [
+      "Casual",
+      3
+    ],
+    [
+      "Animation & Modeling",
+      1
+    ],
+    [
+      "Design & Illustration",
+      1
+    ]
+  ],
+  "multiplayerShare": 0.8333333333333334
+}
