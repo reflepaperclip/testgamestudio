@@ -92,11 +92,10 @@ sequenceDiagram
         alt 플레이어가 범위 외 이동
             GameWorld->>GameWorld: 상호작용 취소
             HUD->>Player: 프롬프트 숨기기
-        alt 적에게 탐지됨
+        적에게 탐지됨
             GameWorld->>AI: 탐지 상태 전환
             AI-->>HUD: 위험 수준 업데이트
             HUD->>AlertFlash: 화면 가장자리 플래시 트리거
-        end
     else 조건 불충족
         HUD->>Player: "조건이 만족되지 않음" 피드백 (간헐적)
     end
@@ -170,8 +169,8 @@ stateDiagram-v2
     Accessibility --> Settings: "적용" 저장
     Accessibility --> MainHUD: "취소" 없이 닫기
     
-    Settings --> MainHUD: "메인 메뉴로 복귀" 선택 from PauseMenu
-    MainHUD --> MainMenu: "메인 메뉴로 복귀" 선택 from PauseMenu
+    Settings --> MainHUD: "메인 메뉴로 복귀" selection from PauseMenu
+    MainHUD --> MainMenu: "메인 메뉴로 복귀" selection from PauseMenu
 ```
 
 ## Accessibility Validation Flow

@@ -7,7 +7,7 @@ This directory contains all UI/UX design documents for the project.
 - [`ux-design-system.md`](ux-design-system.md) — UI design system (colors, typography, components, accessibility)
 - [`user-flows.md`](user-flows.md) — User flow diagrams for core loops, screen transitions, interactions, settings, and onboarding
 - [`wireframes.md`](wireframes.md) — Wireframe diagrams for main HUD, pause menu, settings, tutorial, game over, and success screens
-- [`main-hud.md`](main-hud.md) — Main HUD design and implementation guide (existing)
+- [`main-hud.md`](../UIUXDesign.md) — Main HUD design and implementation guide
 
 ## Design Intent
 
